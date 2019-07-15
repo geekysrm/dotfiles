@@ -7,3 +7,6 @@ You are also welcome to open any issues or make PR's if you like!
 
 # Author
 Soumya Ranjan Mohanty (@geekysrm)
+
+[Twitter](https://twitter.com/geekysrm)
+[GitHub](https://github.com/geekysrm)
